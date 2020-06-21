@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Container, Avatar, Message, Header, Content } from './styles';
-import { spawn } from 'child_process';
 export { Mention } from './styles';
 
 export interface Props {
